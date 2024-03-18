@@ -1,0 +1,7 @@
+src/__pycache__
+
+#Completiveness analysis info is ignored
+conf/completiveness_analysis_u0_l0.npy
+
+#Protected model is also ignored
+models/example_u0_l0.h5
